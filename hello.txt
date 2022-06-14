@@ -18,6 +18,7 @@ high dollar approvals so and so. on that time claient offer new project requirem
  jenking pull the latest source code for building the application. when ever we build the package we will validate the code and compile the code
  the code and test the code and install the required packages and unit testing, continous testing and pacaging the application 
  into executable format.
+ terraform: terraform is a opensource it software tool . terraform creates infrastructure for what is required for our application make it work.
  
 
  
