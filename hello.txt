@@ -1,0 +1,23 @@
+hello sir,
+my name is balaraju manoj i have over all six years of experience including both non-IT and it sectors.
+i started my career as a process exicutive in healthcare industry. 
+in thhis 3 years of experience i have learn so many thing and also i have placed  many roles in this field.
+as we started working  day with checking mail box because of any important mail came form client. once this task 
+completed next we will attend for scrum meeting in this meeting will attend managers, group leads and teams members. 
+in this scrum meet managers or group lead explain about what has been done for the day for example what is the target for the day
+how to maintain quality and how to reach daily goals. once scrum meet completes group lead send an email saying that what has discussed 
+in the meeting. once laed assign the work every team member should work on the assigned work. i have workin hard and i got promoted as SME 
+in that role i am having additional responsibilities like assigning the work to the team and collecting the status and approving the 
+high dollar approvals so and so. on that time claient offer new project requirement. in this project need to some employees who ahve good 
+ knowledge for devolopment and operations. so my manager reffer me as a devoloper later point of time i was complete moved for devops 
+ engineer. so that time i started my carrer with one of the mostly used configuration management tool like Ansible.
+
+ Ansible is opensource IT software automation tool . Ansible used for provisioning, configuration management, deploying the application 
+ and other IT services. Ansible is simple but powerpul management tool mainly used for cross platform computer support tasks.
+ later started working on Jenkins. Jenkins is a opensource continous integration automation server. whwen ever developer commit the changes
+ jenking pull the latest source code for building the application. when ever we build the package we will validate the code and compile the code
+ the code and test the code and install the required packages and unit testing, continous testing and pacaging the application 
+ into executable format.
+ 
+
+ 
